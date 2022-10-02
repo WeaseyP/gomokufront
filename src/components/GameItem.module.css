@@ -1,0 +1,21 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 60px;
+  padding: 0.5rem 0.25rem;
+}
+
+.button {
+  cursor: pointer;
+  width: 100%;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem;
+  border: none;
+  background-color: #4f58df;
+  text-transform: uppercase;
+}
